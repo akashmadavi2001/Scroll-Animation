@@ -13,7 +13,7 @@
     text-transform: uppercase;
     transform-style: preserve-3d;
     transition: all 0s ease;
-    font-size: 5rem;
+    font-size: 4.5rem;
 }
 
 .box1 {
@@ -114,3 +114,4 @@
         width: 0%;
     }
 }
+
